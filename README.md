@@ -7,19 +7,20 @@ I hold 6+ years of experience in development, understanding clients' unique need
 I am someone who likes to keep acquiring new skills and capabilities. And when I am not a web developer, I enjoy reading, writing and running.
 
 My interests include:
-> Exploring new ideas
-> Learning about future tech & products
-> Finding user-friendly solutions to tech-related problems
-> Sharing my knowledge with close acquaintances</p>
+- Exploring new ideas
+- Learning about future tech & products
+- Finding user-friendly solutions to tech-related problems
+- Sharing my knowledge with close acquaintances</p>
+-----------------------------------------------------------------------------------------
 - 💬 Ask me about **Javascript, React, Nodejs**
 
 - 📫 How to reach me **hithisisrajkumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thisis__raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisis__raj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thisisraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisisraj" height="30" width="40" /></a>
-<a href="https://instagram.com/thisisrajkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisrajkumar" height="30" width="40" /></a>
+<a href="https://twitter.com/techie__raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisis__raj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/techieraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisisraj" height="30" width="40" /></a>
+<a href="https://instagram.com/techie_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisrajkumar" height="30" width="40" /></a>
 <a href="https://hashnode.com/thisisraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="thisisraj" height="30" width="40" /></a>
 </p>
 
