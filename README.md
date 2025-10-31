@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 <p>I am a full stack developer (currently working with cognizant) who is passionate about web development and creating digital products with innovative solutions.
 
-I hold 6+ years of experience in development, understanding clients' unique needs, and delivering quality code. I've honed my coding skills over these years through both my professional exposure and self-study. Have worked with teams that have used agile development methodology.
+I hold 9+ years of experience in development, understanding clients' unique needs, and delivering quality code. I've honed my coding skills over these years through both my professional exposure and self-study. Have worked with teams that have used agile development methodology.
 
 I am someone who likes to keep acquiring new skills and capabilities. And when I am not a web developer, I enjoy reading, writing and running.
 
